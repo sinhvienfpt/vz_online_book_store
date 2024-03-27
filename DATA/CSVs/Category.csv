@@ -1,0 +1,429 @@
+CategoryID,Category
+0,Couples & Famil
+1,Weight Los
+2,Techniques
+3,Nutritio
+4,Cultural & Socia
+5,"Middle Atlantic (NJ, NY, PA)"
+6,Security (National & International)
+7,Fairy Tales & Folklore
+8,New Though
+9,Music
+10,Occultis
+11,Codependenc
+12,Architects
+13,Technology & Engineering
+14,Travel
+15,Famil
+16,Political Process
+17,Women's Healt
+18,Drama
+19,"Middle Atlantic (DC, DE, MD, NJ, NY, PA)"
+20,Study Aids
+21,Editors
+22,Interpersonal Relation
+23,Hospitality
+24,Drawin
+25,Developmental
+26,Fantasy
+27,Technology
+28,Anatomy & Physiolog
+29,Algebra
+30,Devotiona
+31,Spain & Portuga
+32,Urba
+33,Parodie
+34,Agin
+35,Christianity
+36,Quotation
+37,Women Sleuth
+38,Child & Adolescen
+39,Subjects & Themes
+40,Publisher
+41,Lifestyles
+42,Parenting
+43,Holistic Medicin
+44,Literar
+45,Applied Science
+46,Marriage & Long-Term Relationship
+47,Advertising & Promotio
+48,Comics & Graphic Novels
+49,History
+50,Interior Design
+51,Hardware
+52,Social Topics
+53,Humor
+54,Terroris
+55,Jungia
+56,Referenc
+57,Applied Psycholog
+58,Pets
+59,Social Aspect
+60,Military Scienc
+61,Feminism & Feminist Theor
+62,LGBT Studies
+63,Economic Polic
+64,Anthologies (multiple authors)
+65,Emotions & Feeling
+66,Psychology of Religio
+67,Business & Economics
+68,Short Stories (single author)
+69,Care & Restoratio
+70,Hearing & Speec
+71,Succes
+72,Landscap
+73,Calculu
+74,Medical (incl. Patients)
+75,Africa
+76,Wedding
+77,Personal Computers
+78,Life Stages
+79,Popular Cultur
+80,Young Adult Fiction
+81,Christia
+82,Vegetaria
+83,European
+84,Ches
+85,Embroider
+86,Praye
+87,"ESP (Clairvoyance, Precognition, Telepathy)"
+88,Socce
+89,Inspirationa
+90,Flowers
+91,Historical
+92,Social Science
+93,Historica
+94,World War I
+95,Christian Life
+96,Science
+97,Irish
+98,Essays & Writing
+99,Psychology
+100,Family
+101,Science Fiction
+102,Fiction
+103,Soups & Stew
+104,Depressio
+105,Government
+106,Horro
+107,Executive Branc
+108,Gerontolog
+109,Orchid
+110,Religious
+111,Limericks & Vers
+112,Love & Romanc
+113,Herbs
+114,Anxieties & Phobia
+115,Transportation
+116,Disabilities & Special Need
+117,Bartendin
+118,Herbal Medication
+119,Study & Test-Taking Skill
+120,Educational Policy & Reform
+121,Anecdotes & Quotation
+122,Zoology
+123,Publishin
+124,Cleaning & Caretakin
+125,Earth Sciences
+126,Family & Relationships
+127,Games
+128,State & Local 
+129,Chil
+130,African American Studie
+131,Public Affairs & Administratio
+132,Legal Professio
+133,Hard-Boile
+134,African American
+135,Aviation
+136,Sewin
+137,Thrillers
+138,Church of Jesus Christ of Latter-day Saints (Mormon)
+139,Gardening
+140,Nava
+141,Special Education
+142,Language Arts
+143,Sports & Recreation
+144,Western State
+145,Earth Science
+146,Personal Finance
+147,Modern
+148,Criminolog
+149,Lesbian Studie
+150,Methods
+151,Plants
+152,Law
+153,Game
+154,Biography & Autobiography
+155,Classica
+156,Science & Nature
+157,Biolog
+158,Tabl
+159,Mind & Spirit
+160,Journalists
+161,Political Science
+162,Great Britain
+163,Language Arts & Disciplines
+164,Networking
+165,Special Interest
+166,Comic Strips & Cartoon
+167,Asia
+168,Civil War Period (1850-1877)
+169,Judaism
+170,Regional & Ethnic
+171,Europe
+172,Mystery & Detective
+173,Military
+174,Criminal Law
+175,Frenc
+176,West
+177,Folk & Outsider Ar
+178,Gol
+179,Gambling
+180,Annual
+181,Decoratin
+182,Researc
+183,Environmental Scienc
+184,Topic
+185,Religiou
+186,Readers
+187,Biographica
+188,Body
+189,History 
+190,Health & Fitness
+191,Rhetori
+192,Reference
+193,Dictionarie
+194,Affirmation
+195,Cultural Heritag
+196,Musical Instruments
+197,Political Science 
+198,Business Developmen
+199,Religion
+200,Art
+201,Self-Estee
+202,Archaeolog
+203,Kayakin
+204,Oper
+205,Ancient & Classica
+206,Northeast
+207,Cartoonin
+208,Medieva
+209,International Relations
+210,Marketing
+211,Personal Growth
+212,Psychotherapy
+213,Regiona
+214,Death & Dyin
+215,Parapsychology 
+216,Juvenile Fiction
+217,Social Psycholog
+218,Cosmolog
+219,Amis
+220,Literary Collections
+221,History & Theor
+222,Condiment
+223,Taxatio
+224,Sexual Instructio
+225,Photography
+226,Folklore & Mytholog
+227,Philosophy
+228,Royalt
+229,Court
+230,Adventur
+231,Political Partie
+232,Chin
+233,Piano & Keyboar
+234,Leadershi
+235,Dance
+236,Customs & Tradition
+237,Testing & Measuremen
+238,Christian
+239,"Pacific (AK, CA, HI, OR, WA)"
+240,Ethnic Studies
+241,Classical & Balle
+242,Ethnic & Triba
+243,Wome
+244,Monasticis
+245,Poke
+246,Life Sciences
+247,19th Centur
+248,Diet
+249,Programming
+250,Diet & Nutrition
+251,Holida
+252,Outdoo
+253,Exercise
+254,Illustratio
+255,Poetry
+256,Adventurers & Explorer
+257,Foreign Language Study
+258,Histor
+259,Travel 
+260,Cult
+261,Personal Memoir
+262,Careers
+263,Civil Right
+264,New Testament
+265,Literary Criticism
+266,"South Atlantic (DC, DE, FL, GA, MD, NC, SC, VA, WV)"
+267,Mountaineerin
+268,Women's Interest
+269,Ethics & Moral Philosoph
+270,Homeopath
+271,Beverages
+272,Boatin
+273,Concepts
+274,Sport
+275,Public Policy
+276,Ecolog
+277,Essay
+278,Beauty & Groomin
+279,Souther
+280,Fantasy & Magi
+281,Worl
+282,Courses & Dishes
+283,Tree
+284,Nature
+285,Games & Activities
+286,Business Aspect
+287,Inspirational & Religiou
+288,Physic
+289,Home Schoolin
+290,Criticism & Theor
+291,Footbal
+292,Breed
+293,House & Home
+294,Sociology
+295,Young Adult Nonfiction
+296,Cooking
+297,Education
+298,Discriminatio
+299,Aviatio
+300,Managemen
+301,Lifespan Developmen
+302,Emotion
+303,Animal
+304,PC
+305,Teaching Methods & Materials
+306,Values & Virtue
+307,Seasona
+308,Network Protocol
+309,Stencilin
+310,Card Games
+311,Militar
+312,Meditation
+313,Caribbean & West Indie
+314,Photographer
+315,Biblical Biography
+316,Biblical Studies
+317,Performing Arts
+318,Aeronautics & Astronautic
+319,Finance
+320,Classic
+321,War & Militar
+322,American Government
+323,Artists
+324,Paul's Letter
+325,Counting & Number
+326,Health & Healing
+327,Composers & Musician
+328,Christian Living
+329,United State
+330,Industries
+331,Stress Managemen
+332,Development
+333,Spices
+334,Self-help
+335,Middle East
+336,Inspiration & Personal Growt
+337,Computers
+338,Graphic Arts
+339,Iraq War (2003-2011)
+340,Needlework
+341,Luthera
+342,Mathematics
+343,Wine & Spirit
+344,Adolescenc
+345,Juvenile Nonfiction
+346,Form
+347,Farm & Ranch Lif
+348,Movements
+349,Buddhism
+350,Film
+351,Entertainment & Performing Art
+352,Saga
+353,Motor Sport
+354,Individual Architects & Firms
+355,Chapter Book
+356,Crafts & Hobbie
+357,Horse Racin
+358,Crafts & Hobbies
+359,United States
+360,Motivationa
+361,Country & Bluegras
+362,Investin
+363,Ethic
+364,South
+365,Presidents & Heads of Stat
+366,Travel & Touris
+367,Wo
+368,Specific Ingredients
+369,Puzzle
+370,Psychopharmacolog
+371,Suspens
+372,Mind & Spirit 
+373,Economic Condition
+374,Germa
+375,Fishin
+376,Scottish
+377,Shakespear
+378,Antiques & Collectibles
+379,Genera
+380,Psychiatry
+381,Design
+382,Wester
+383,Arms Contro
+384,Genres & Styles
+385,Data Transmission Systems
+386,Women's Studie
+387,Security
+388,Gymnastic
+389,Architecture
+390,Social Themes
+391,Spiritualit
+392,Low Fa
+393,20th Centur
+394,Cats
+395,Bird
+396,Self-Management
+397,Friendshi
+398,American
+399,Food Content Guide
+400,Dogs
+401,Nursery Rhyme
+402,Naturopath
+403,Baseball
+404,Marriage & Famil
+405,Essays & Travelogue
+406,Romance
+407,History & Surveys
+408,Politica
+409,Spiritual Growt
+410,Anthropology
+411,Wars & Conflicts (Other)
+412,Radio
+413,Animals
+414,Psychopathology
+415,Health Care Issue
+416,English
+417,Cookie
+418,United States 
+419,Sibling
+420,Motherhoo
+421,Sexualit
+422,Action & Adventur
+423,Computer Graphic
+424,Vegetable
+425,Wels
+426,Humorous
+427,Medical
